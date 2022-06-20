@@ -4,3 +4,5 @@ Project
 3.learn css framework
 4.learn node js
 5.learn web component
+6.struktur data
+7.algoritma
